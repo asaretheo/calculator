@@ -1,0 +1,15 @@
+.orange {
+  background-color: orange;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+.operations-symbols {
+  border-bottom: 1px solid gray;
+}
+.border-y {
+  border-bottom: 1px solid gray;
+  background-color: #d9d8d8;
+}
+.border-x {
+  border-left: 1px solid gray;
+}
